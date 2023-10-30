@@ -49,7 +49,7 @@ const Home = () => {
                     }
                 </Carousel>
                 <div>
-            <iframe src="https://web.powerva.microsoft.com/environments/Default-ad06ef22-d6dc-4a55-b4c1-c3a158f5f147/bots/cr78b_movieRecommender/webchat?__version__=2" style ={{height: "450px", width: "50%", backgroundColor:"White"}}></iframe>
+            <center><iframe src="https://web.powerva.microsoft.com/environments/Default-ad06ef22-d6dc-4a55-b4c1-c3a158f5f147/bots/cr78b_movieRecommender/webchat?__version__=2" style ={{height: "450px", width: "50%", backgroundColor:"White"}}></iframe></center>
             </div>
                 <MovieList />
             </div>
