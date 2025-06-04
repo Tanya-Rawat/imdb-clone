@@ -14,7 +14,7 @@
 
 ## How to check the project?
 - The project is deployed using Azure App Services.
-- The link to check the project is: https://imdb-clone-website.azurewebsites.net/
+- The link to check the project is: https://imdb-clone-website.azurewebsites.net/ (Not working anymore)
 
 ## Features I hope to implement
 - I want to expand the categories of movies.
